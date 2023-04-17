@@ -1,4 +1,4 @@
-
+(https://media.discordapp.net/attachments/1095023275735797893/1097409326693494824/rsg-inv.png?width=1197&height=676)
 
 ## Color Picking Added!
 line 824 & 839 to change keybinds to open and for hotbar
